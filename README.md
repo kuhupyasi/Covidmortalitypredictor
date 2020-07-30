@@ -1,0 +1,1 @@
+Corona Virus(COVID-19) is an infectious disease caused by a newly discovered coronavirus,currently more than 1.4 million people are affected by this disease worldwide.We are trying to predict the state of a person if he gets infected by the virus,i.e if he would survive the virus or not based various data points like age,gender,past travel history,cold symptoms etc.
